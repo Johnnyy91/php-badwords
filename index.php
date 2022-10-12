@@ -11,3 +11,6 @@ echo $TextChange . '<br>';
 echo strlen($TextChange);
 
 ?>
+
+<h2><?php echo$Text ?></h2>
+<h2><?php echo$TextChange ?></h2>
